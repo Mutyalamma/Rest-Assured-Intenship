@@ -1,10 +1,12 @@
 package ConverttoJsontoJava;
 
-public class Accounting {
+public class Accounting 
+{
 	 private String firstName;
-	    private String lastName;
-	    private Integer age;
-	    public String getFirstName() 
+	 private String lastName;
+	 private Integer age;
+	    
+	 public String getFirstName() 
 	    {
 	        return firstName;
 	    }
